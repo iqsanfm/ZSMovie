@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZSMovie/static/css/main.83a2575a.css",
+    "main.js": "/ZSMovie/static/js/main.bcc7504d.js",
+    "static/js/453.5465038e.chunk.js": "/ZSMovie/static/js/453.5465038e.chunk.js",
+    "static/media/Spiderman.jpg": "/ZSMovie/static/media/Spiderman.4e362e43826a4f6c384d.jpg",
+    "static/media/venom.jpg": "/ZSMovie/static/media/venom.afe1526fc4d791576a53.jpg",
+    "static/media/doctorStrange.jpg": "/ZSMovie/static/media/doctorStrange.318719f9b711500679b9.jpg",
+    "static/media/deadPool.jpg": "/ZSMovie/static/media/deadPool.a04e0b3b75ddc026f0f5.jpg",
+    "static/media/insomniac.jpg": "/ZSMovie/static/media/insomniac.59e59882dac4fa436c99.jpg",
+    "static/media/ironman.jpg": "/ZSMovie/static/media/ironman.4ca24934390379b7152e.jpg",
+    "static/media/badGenius.jpg": "/ZSMovie/static/media/badGenius.de8d3a9b63dd9e79129a.jpg",
+    "static/media/assCreed.jpg": "/ZSMovie/static/media/assCreed.6730d94e8fbc3bb29108.jpg",
+    "static/media/aliceInBorderland.jpg": "/ZSMovie/static/media/aliceInBorderland.a5ac57b8a385f016114a.jpg",
+    "index.html": "/ZSMovie/index.html",
+    "main.83a2575a.css.map": "/ZSMovie/static/css/main.83a2575a.css.map",
+    "main.bcc7504d.js.map": "/ZSMovie/static/js/main.bcc7504d.js.map",
+    "453.5465038e.chunk.js.map": "/ZSMovie/static/js/453.5465038e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a2575a.css",
+    "static/js/main.bcc7504d.js"
+  ]
+}
