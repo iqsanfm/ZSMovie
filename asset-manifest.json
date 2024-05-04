@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZSMovie/static/css/main.83a2575a.css",
-    "main.js": "/ZSMovie/static/js/main.bcc7504d.js",
+    "main.js": "/ZSMovie/static/js/main.24c4bf50.js",
     "static/js/453.5465038e.chunk.js": "/ZSMovie/static/js/453.5465038e.chunk.js",
     "static/media/Spiderman.jpg": "/ZSMovie/static/media/Spiderman.4e362e43826a4f6c384d.jpg",
     "static/media/venom.jpg": "/ZSMovie/static/media/venom.afe1526fc4d791576a53.jpg",
@@ -14,11 +14,11 @@
     "static/media/aliceInBorderland.jpg": "/ZSMovie/static/media/aliceInBorderland.a5ac57b8a385f016114a.jpg",
     "index.html": "/ZSMovie/index.html",
     "main.83a2575a.css.map": "/ZSMovie/static/css/main.83a2575a.css.map",
-    "main.bcc7504d.js.map": "/ZSMovie/static/js/main.bcc7504d.js.map",
+    "main.24c4bf50.js.map": "/ZSMovie/static/js/main.24c4bf50.js.map",
     "453.5465038e.chunk.js.map": "/ZSMovie/static/js/453.5465038e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83a2575a.css",
-    "static/js/main.bcc7504d.js"
+    "static/js/main.24c4bf50.js"
   ]
 }
