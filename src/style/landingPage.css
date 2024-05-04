@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap");
 
 .myBackground {
-  height: 200vh;
+  height: 100vh;
   background: rgb(12, 12, 12);
   background: linear-gradient(
     105deg,
@@ -15,6 +15,49 @@
   font-weight: 400;
   font-style: normal;
 }
+
 .trending {
-  color: white;
+  height: auto;
+  background: rgb(12, 12, 12);
+  background: linear-gradient(
+    105deg,
+    rgba(12, 12, 12, 1) 0%,
+    rgba(221, 87, 137, 1) 49%,
+    rgba(122, 44, 158, 1) 100%
+  );
+  background-size: cover;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.imagesTrending {
+  height: 500px;
+}
+
+.superhero {
+  height: auto;
+  background: rgb(12, 12, 12);
+  background: linear-gradient(
+    105deg,
+    rgba(12, 12, 12, 1) 0%,
+    rgba(221, 87, 137, 1) 49%,
+    rgba(122, 44, 158, 1) 100%
+  );
+  background-size: cover;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }

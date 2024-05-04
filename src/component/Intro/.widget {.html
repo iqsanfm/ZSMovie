@@ -1,0 +1,44 @@
+.widget {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.widgetText {
+  margin-left: 16px;
+  text-align: left;
+  max-width: 90%;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.widgetText h2 {
+  font-size: 30px;
+  max-width: 600px;
+}
+.widgetText p {
+  font-size: 15px;
+  max-width: 600px;
+}
+.btnLogin {
+  margin-top: 24px;
+  margin-left: 12px;
+}
+.widgetImage {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+}
+.widgetImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.widgetImage img:hover {
+  transform: scale(1.05);
+}

@@ -1,19 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap");
 
-.text {
-  height: 90px;
-  color: white;
-  font-family: "Sofia Sans Condensed", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-}
-.text h2 {
-  text-align: center;
-  justify-content: center;
-  letter-spacing: 1px;
-}
-.text p {
-  letter-spacing: 1px;
-  text-align: center;
+.movieImage {
+  height: auto;
 }
