@@ -11,11 +11,9 @@ function App() {
         <NavigationBar />
         <Intro />
       </div>
-
       <div className="trending">
         <Trending />
       </div>
-
       <div className="superhero">
         <Superhero />
       </div>

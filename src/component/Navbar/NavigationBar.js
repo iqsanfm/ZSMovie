@@ -4,9 +4,9 @@ import Navbar from "react-bootstrap/Navbar";
 
 function NavigationBar() {
   return (
-    <Navbar bg="dark" data-bs-theme="dark">
+    <Navbar bg="dark" data-bs-theme="dark" id="home">
       <Container>
-        <Navbar.Brand href="/">ZSMovie</Navbar.Brand>
+        <Navbar.Brand href="#home">ZSMovie</Navbar.Brand>
         <Nav className="me-end">
           <Nav.Link href="#trending">TRENDING</Nav.Link>
           <Nav.Link href="#superhero">SUPERHERO</Nav.Link>
